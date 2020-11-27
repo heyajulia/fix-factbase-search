@@ -8,7 +8,8 @@
     "sf": "standard --fix",
     "lint": "web-ext lint --source-dir src",
     "run": "web-ext run --source-dir src",
-    "build": "web-ext build --source-dir src"
+    "build": "web-ext build --source-dir src",
+    "sign": "web-ext sign --source-dir src --channel unlisted"
   },
   "keywords": [],
   "author": "Julia <juliariety@gmail.com>",
