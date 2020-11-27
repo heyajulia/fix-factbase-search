@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Fix Factba.se Search",
+  "version": "1.0",
+  "description": "Sometimes, Factba.se's search does not work when you're using an ad blocker. This extension fixes that.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.factba.se/search*"],
+      "js": ["content-script.js"]
+    }
+  ]
+}
