@@ -11,6 +11,11 @@
           "version": "1.1",
           "update_link": "https://github.com/heyajulia/fix-factbase-search/releases/download/v1.1/fix_factbase_search-1.1-an+fx.xpi",
           "update_hash": "sha256:77d0304d62ca9d9177d6621660c15768956a93ecd505ff9272b674fab7a99ad5"
+        },
+        {
+          "version": "1.2",
+          "update_link": "https://github.com/heyajulia/fix-factbase-search/releases/download/v1.2/fix_factbase_search-1.2-an+fx.xpi",
+          "update_hash": "sha256:8619a1b976a4552b65338fe2f464b0d6aef4036a14d0f54419922fd7f05f66a9"
         }
       ]
     }
