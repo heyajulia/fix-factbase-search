@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "{49c0735b-7a92-4ec2-9633-9c4dac1d6944}": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/heyajulia/fix-factbase-search/releases/download/v1.0/fix_factbase_search-1.0-an+fx.xpi",
+          "update_hash": "sha256:be19f953f5589b14067ad146c7390b3bad6560845aaf89e696690c7ded264972"
+        }
+      ]
+    }
+  }
+}
