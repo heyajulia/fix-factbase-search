@@ -1,15 +1,14 @@
 {
   "private": true,
   "name": "fix-factbase-search",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Sometimes, Factba.se's search does not work when you're using an ad blocker. This extension fixes that.",
   "scripts": {
     "s": "standard --verbose | snazzy",
     "sf": "standard --fix",
     "lint": "web-ext lint --source-dir src",
     "run": "web-ext run --source-dir src",
-    "build": "web-ext build --source-dir src",
-    "sign": "web-ext sign --source-dir src --channel unlisted"
+    "build": "web-ext build --source-dir src"
   },
   "keywords": [],
   "author": "Julia <juliariety@gmail.com>",

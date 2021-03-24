@@ -11,7 +11,8 @@ script.innerText = 'window.ga = () => {}'
 document.head.appendChild(script)
 
 /**
- * And last but not least, we need to manually hide the
+ * And last but not least, we hide the
  * "apologies, search may not work for you" error message.
  */
-document.getElementById('filterline').remove()
+document.getElementById('filterline')?.remove() ??
+    console.error('#filterline element not found')
