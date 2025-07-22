@@ -16,6 +16,6 @@
   "devDependencies": {
     "snazzy": "^9.0.0",
     "standard": "^16.0.3",
-    "web-ext": "^5.4.0"
+    "web-ext": "^8.9.0"
   }
 }
